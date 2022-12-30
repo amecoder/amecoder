@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @amecoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I have been worked for 12 years as a PHP programmer.
+For 12 years, there is so little documents left so far, I have a lot of regrets about myself.
+So I decided that I will change and make documents on Github.
 
-<!---
-amecoder/amecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From 2023's, I'll write commits for PHP skills and IT Tech as possible.
