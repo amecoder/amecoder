@@ -1,6 +1,6 @@
 # 문형수 · amecoder
 
-저는 백엔드 개발자 문형수입니다.
+저는 백엔드 개발자이자 AI 엔지니어인 문형수입니다. 프론트엔드를 포함한 풀스택 개발도 합니다.
 사람들이 실제 업무에서 사용하는 서비스를 만들고 운영하는 데 관심이 있습니다.
 “함께 일하고 싶은 사람이 되자!”가 제 좌우명입니다.
 
@@ -33,7 +33,7 @@ Claude와 GitHub Copilot에 초안과 분석을 맡기고, 생성된 코드는 �
 이메일은 [moonhou@naver.com](mailto:moonhou@naver.com)입니다.
 운영 중인 서비스는 [semu.ai.kr](https://semu.ai.kr)에서 볼 수 있습니다.
 
-I'm Mun Hyeong Su (amecoder), a backend developer who builds and runs services people use in their work.
+I'm Mun Hyeong Su (amecoder), a backend developer and AI engineer who also works across the full stack, including the frontend.
 I've worked on payments, settlements, and event processing, and lately I've been connecting AI to business systems and using AI in development.
 Outside work, I run 세무 Tools, which started with a family member's tax work, and write hello-llm to help people use LLMs without a technical background.
 I also built drrrk, an auction marketplace backend, and shared its code when I stopped working on the project.
